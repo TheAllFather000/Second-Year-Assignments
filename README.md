@@ -1,2 +1,3 @@
-﻿# Second-Year-Assignments
-This is a collection of all my Second Year Assignments. This year focused on Data Structures And Algorithms, with a particular focus on data structures such as Binary Search Trees and its specilisations (e.g AVL Trees), alongside the creation of Hash Tables using both Quadratic and Linear Probing for collision resolution. MySQL formed the latter part of the first semester, with two assignments focusing on the language.   
+version https://git-lfs.github.com/spec/v1
+oid sha256:8153bdc5654cefa4e27614d7305130915d3dff249bca32bc5bea7a2ad74efb25
+size 457
